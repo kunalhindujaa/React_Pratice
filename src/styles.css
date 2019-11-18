@@ -1,4 +1,15 @@
 .App {
   font-family: sans-serif;
+}
+
+.button {
+  margin: 5px;
+}
+
+.nav_bar p {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73ad21;
+  padding: 10px;
   text-align: center;
 }
